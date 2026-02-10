@@ -1,0 +1,7 @@
+# Arquivos gerados automaticamente pelo Python
+__pycache__/
+*.pyc
+
+# Arquivos do macOS
+.DS_Store
+
